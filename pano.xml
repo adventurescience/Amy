@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22072" appversion="8.0 beta 2" hassounds="0" start="node19">
+  <panorama hideabout="1" id="node19">
+    <input height="1894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1894">
+      <level height="1894" predecode="0" preload="0" width="1894"/>
+      <level height="947" predecode="1" preload="1" width="947"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-3048.00" author="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="Amelework|Area1" title="Front Door"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="138.264" pan="-156.299" projection="4" tilt="-2.48722"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-155.501" skinid="ht_node" target="-59.5/-0.2/144.4" tilt="-1.58559" title="Harmony Lounge" url="{node3}"/>
+      <polyhotspot description="" id="Poly01" target="" title="Harmony Lounge" url="{node3}">
+        <polystring>-136.665/25.2669|-170.001/25.5348|-171.99/-52.0807|-133.859/-51.2431</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input height="1894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1894">
+      <level height="1894" predecode="0" preload="0" width="1894"/>
+      <level height="947" predecode="1" preload="1" width="947"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-3048.00" author="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="Amelework|Area1" title="Harmony Lounge"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="144.403" pan="-165.003" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-12.01" skinid="ht_node" target="" tilt="-16.2" title="Stairs" url="{node1}"/>
+      <hotspot description="" id="Point02" pan="83.37" skinid="ht_node" target="3.1/-11.1/138.3" tilt="-4.75" title="Front Door" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input height="1894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1894">
+      <level height="1894" predecode="0" preload="0" width="1894"/>
+      <level height="947" predecode="1" preload="1" width="947"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-3048.00" author="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="Amelework|Area1" title="Stairs"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="144.403" pan="-179.023" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point02" pan="43.21" skinid="ht_node" target="" tilt="-31.19" title="Harmony Lounge" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title=""/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
